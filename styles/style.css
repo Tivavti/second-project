@@ -310,11 +310,6 @@
   padding: 0;
 }
 
-.footer__column_content_social {
-  display: flex;
-  flex-direction: column;
-}
-
 .footer__column-link {
   line-height: 30px;
   font-size: 18px;
@@ -323,6 +318,13 @@
   text-decoration-line: none;
   padding: 10px;
 }
+
+.footer__column_content_social {
+  display: flex;
+  flex-direction: column;
+}
+
+
 
 .footer__social-icon {
   height: 16px;
